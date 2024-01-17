@@ -1,4 +1,4 @@
-# What The Hack - Linux Fundamentals
+## Linux
 
 ## Introduction
 This hackathon will serve as an introduction to important command line concepts and skills on Linux environments.
